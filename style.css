@@ -1,0 +1,11 @@
+table, td, th{
+    border:2px black solid;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+img{
+    width: 90px;
+}
